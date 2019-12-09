@@ -1,0 +1,84 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    background-color: antiquewhite;
+}
+
+.head
+{
+    text-align: center;
+    color:lightseagreen;
+    font-size: xx-large;
+    font-family: "Candara Light", serif;
+}
+.context1
+{
+    font-size: 20px;
+    text-align: justify;
+    color: royalblue;
+    width: 60%;
+    font-family: 微软雅黑;
+}
+.context2
+{
+    font-size: 20px;
+    text-align: justify;
+    color: rgb(93, 235, 147);
+    width: 90%;
+    font-family: 微软雅黑;
+}
+
+.context3
+{
+    font-size: 20px;
+    text-align: justify;
+    color: darkcyan;
+    width: 60%;
+    font-family: 微软雅黑;
+}
+.ye1tu1
+{
+    position: absolute;
+    top: 24px;
+    left: 450px;
+    width: 480px;
+}
+.ye1tu2
+{
+    float: left;
+    height: 240px;
+    width: 460px;
+    display: inline;
+}
+.ye1tu3
+{
+    position: absolute;
+    left: 900px;
+    top: 360px;
+    height: 240px;
+    width: 460px;
+}
+.mid
+{
+    text-align: center;
+    font-size: 20px;
+    color: deeppink;
+    font-family: "Candara Light";
+}
+.mid-context1
+{
+    font-size: 20px;
+    color: deeppink;
+}
+.mid-context2
+{
+    font-size: 20px;
+    color: darkviolet;
+    text-align: center;
+}
+.em
+{
+    position: relative;
+    top: 6px;
+}
